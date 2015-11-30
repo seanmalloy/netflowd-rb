@@ -1,5 +1,6 @@
 netflowd-rb
 ===============
+[![Gem Version](https://badge.fury.io/rb/netflowd.svg)](https://badge.fury.io/rb/netflowd)
 [![Build Status](https://travis-ci.org/seanmalloy/netflowd-rb.svg?branch=master)](https://travis-ci.org/seanmalloy/netflowd-rb)
 [![Coverage Status](https://coveralls.io/repos/seanmalloy/netflowd-rb/badge.svg?branch=master&service=github)](https://coveralls.io/github/seanmalloy/netflowd-rb?branch=master)
 [![Inline Docs](http://inch-ci.org/github/seanmalloy/netflowd-rb.png?branch=master)](http://inch-ci.org/github/seanmalloy/netflowd-rb)
