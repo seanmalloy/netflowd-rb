@@ -1,0 +1,6 @@
+*.gem
+*.swp
+coverage
+doc
+.yardoc
+
