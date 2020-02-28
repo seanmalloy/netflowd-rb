@@ -14,7 +14,7 @@ GEM
       tins (~> 1.6)
     docile (1.3.1)
     json (2.1.0)
-    rake (10.5.0)
+    rake (12.3.3)
     simplecov (0.16.1)
       docile (~> 1.1)
       json (>= 1.8, < 3)
@@ -35,7 +35,7 @@ DEPENDENCIES
   bundler (~> 1.10)
   coveralls (~> 0.8)
   netflowd!
-  rake (~> 10.4)
+  rake (~> 12.3)
   travis-lint (~> 2.0)
   yard (~> 0.9.11)
 
